@@ -23,6 +23,20 @@ yarn-error.log*
 .idea/
 *.sublime-workspace
 *.sublime-project
+generate_commits.ps1
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
 
 # Misc
 *.local
